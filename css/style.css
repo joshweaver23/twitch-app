@@ -1,0 +1,80 @@
+body {
+  font-family: 'Exo 2', sans-serif;
+  background-color: #e6f3ff;
+}
+
+caption {
+  min-width: 400px;
+}
+
+.table-title {
+  font-size: 36px;
+  font-weight: 700;
+  padding: 20px;
+  color: #333;
+}
+
+.btn {
+  border: 1px solid #333;
+  background-color: #fff;
+  margin-bottom: 15px;
+}
+
+.active {
+  background-color: #ddd;
+}
+
+#live-first{
+  color: #33cc33;
+}
+
+#live-only{
+  color: #33cccc;
+}
+
+#code-only{
+  color: #3366ff;
+}
+
+#games-only{
+  color: #ff5050;
+}
+
+th {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+table {
+  margin-bottom: 30px;
+}
+
+tr {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+td img {
+  width: 50px;
+}
+
+.code a {
+  color: #3366ff !important;
+}
+
+.game a {
+  color: #ff5050 !important;
+}
+
+.live {
+  background-color: #99ffbb;
+}
+
+.off-air {
+  background-color: #cccccc;
+}
+
+.hide {
+  display: none;
+}
+
